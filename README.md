@@ -1,5 +1,3 @@
-to be written...
-
 `grid` is an array that stores all of the grid patterns, which are themselves an array of arrays (representing the row with the columns nested within).
 
 `initGrid` fills in the individual grids. The settings for the grids come from `cellSettings.js`, which has within it a `defaultCell` object which is used as a base template for the settings in the `MIND_STATE_SETTINGS` array. Each object in that array is a grid 'pattern' that represents a particular 'mood' or 'mind state'. Explanations for what each settings does is in the `cellSettingExplanations` array that is there for explanatory purposes.
