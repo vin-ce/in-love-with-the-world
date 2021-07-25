@@ -15,7 +15,7 @@ const compileJS = () => {
     platform: 'node',
     target: [ 'node10.4' ],
 
-    outfile: 'public/bundle.js'
+    outfile: 'doc/bundle.js'
 
   }).then(() => {
     console.log('✨ success!')
