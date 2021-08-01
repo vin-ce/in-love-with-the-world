@@ -6,23 +6,20 @@ body {
   font-family: "Cormorant Upright", serif;
   font-size: 21px;
 }
-
-div::selection, a::selection {
+div::selection,
+a::selection {
   background-color: #ffd02b;
 }
-
 .content {
   width: max-content;
   margin: 0 auto;
   margin-top: 33vh;
 }
-
 a {
   display: block;
   margin-top: 10px;
   color: #eb4255;
 }
-
 a:visited {
   color: #e68a94;
 }
