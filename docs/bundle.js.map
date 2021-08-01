@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "sources": [],
-  "sourcesContent": [],
-  "mappings": "",
+  "sources": ["../src/main.js"],
+  "sourcesContent": ["import \"./styles.css\"\r\nconsole.log(\"hellooo\")"],
+  "mappings": ";AACA,QAAQ,IAAI;",
   "names": []
 }
